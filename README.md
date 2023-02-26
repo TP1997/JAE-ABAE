@@ -1,0 +1,1 @@
+Project for applying ABAE topic model (https://www.comp.nus.edu.sg/~leews/publications/acl17.pdf) for multiple corpora. New representation learning approach for text data and several changes to architecture needed to yield desirable results (not yet implemented).
