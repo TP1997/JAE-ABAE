@@ -1,0 +1,14 @@
+{
+    "model_path": "/home/tuomas/Python/Gradu/Pytorch code/JAE-ABAE_model2_pytorch/Model/",
+    "emb_dim": 200,
+    "batch_size": 50,
+    "n_topics_private1": 15,
+    "n_topics_shared": 10,
+    "n_topics_private2": 15,
+    "epochs": 17,
+    "negative_samples": 20,
+    "optimizer": "adam",
+    "ortho_reg": 0.2,
+    "lambda1": 0.8,
+    "lambda2": 0.8
+}
